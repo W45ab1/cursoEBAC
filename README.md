@@ -14,9 +14,6 @@ Como usar:
  * Clonar o repositório:
    git clone https://github.com/W45ab1/projetos_ciencia_dados_ebac.git
 
- * Acessar o projeto da calculadora:
-   cd calculadora_simples
-
  * Executar o código:
    * Localmente: Utilize um ambiente Python configurado e execute o arquivo Python principal.
    * Google Colab: Abra o notebook do Colab e execute as células.
