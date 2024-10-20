@@ -20,3 +20,17 @@ Como usar:
 Observações:
  * As instruções de uso se encontram no próprio código.
 
+
+## Projeto 2: Exercício de Visualização de Dados
+### Profissao Cientista de Dados M10 Pratique.ipynb
+
+ * Descrição: Código Python para exercício de visualização de dados usando matplotlib e seaborn.
+ * Tecnologias: Python
+ * Objetivo: Familiarização com códigos para análise e visualização de dados.
+Estrutura do Repositório:
+ * calculadora_simples: Pasta contendo os arquivos do projeto da calculadora.
+
+Observações:
+ * O código usou uma base dados fictícia apenas para propósitos de estudo
+
+
